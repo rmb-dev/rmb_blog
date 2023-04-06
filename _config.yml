@@ -1,10 +1,10 @@
 ### Site Settings ###
-title               : portfolYOU
+title               : rmb_dev blog
 description         : >-
                       Step into the wacky world of a web developer and UI designer, 
                       where I share our struggles, tips, 
                       and my thoughts on road bikes and life in general.
-baseurl             : "/portfolYOU"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+baseurl             : "/rmb_blog"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : rmb-dev/rmb_blog.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
 open_new_tab        : false                             # Opens external URLs in new tab (works for posts, projects and navbar only)
