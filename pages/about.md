@@ -8,11 +8,15 @@ weight: 3
 # **About Me**
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+A self-taught front-end web developer with more than 3 years of
+experience, specializing in UX and UI design. My work is inspired by a
+minimalist approach to design with a focus on the most essential elements to match a sleek premium look.
+When I'm not working, I am fueled by my passion for road cycling, which
+helps me cultivate the discipline and endurance that are essential to my professional work.
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
-{% include about/skills.html title="Other Skills" source=site.data.other-skills %}
+{% include about/skills.html title="Design Skills" source=site.data.other-skills %}
 </div>
 
 <div class="row">
