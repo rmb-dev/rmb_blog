@@ -5,6 +5,11 @@
 - name: JavaScript
   percentage: 60
   color: warning
+  
+- name: Git
+  percentage: 50
+  color: info
+
 
 - name: Bootstrap
   percentage: 60
@@ -18,15 +23,10 @@
   percentage: 40
   color: success
 
-- name: Git
-  percentage: 50
-  color: info
+- name: Angular
+  percentage: 10
+  color: danger
 
-- name: GitHub
-  percentage: 70
-  color: success
-
-- name: WebStorm
-  percentage: 50
-  color: info
-
+- name: React
+  percentage: 10
+  color: primary
