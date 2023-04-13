@@ -1,0 +1,32 @@
+- name: HTML5/CSS3
+  percentage: 80
+  color: danger
+
+- name: JavaScript
+  percentage: 60
+  color: warning
+
+- name: Bootstrap
+  percentage: 60
+  color: primary
+
+- name: Flutter
+  percentage: 30
+  color: primary
+
+- name: Vue
+  percentage: 40
+  color: success
+
+- name: Git
+  percentage: 50
+  color: info
+
+- name: GitHub
+  percentage: 70
+  color: success
+
+- name: WebStorm
+  percentage: 40
+  color: info
+
