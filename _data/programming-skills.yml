@@ -15,10 +15,6 @@
   percentage: 60
   color: primary
 
-- name: Flutter
-  percentage: 30
-  color: primary
-
 - name: Vue
   percentage: 40
   color: success
