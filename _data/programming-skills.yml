@@ -10,7 +10,6 @@
   percentage: 50
   color: info
 
-
 - name: Bootstrap
   percentage: 60
   color: primary
